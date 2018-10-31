@@ -9,7 +9,7 @@ const Bottom = () => {
           <p>Tech stack: Frontend - React/React Native; State Management: Redux, Redux-thunk; Backend: Firebase / Firebase Cloud Functions; Design - Material design. Other dependencies - moment.js</p>
         </div>
         <div class="card-action">
-          <a href="#">Here is the code</a>
+          <a href="https://github.com/LuanB/cloudprojectplan">Here is the code</a>
                 </div>
       </div>
     </div>
